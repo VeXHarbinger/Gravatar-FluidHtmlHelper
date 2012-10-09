@@ -26,7 +26,8 @@ building on the fine work done by Andrew Freemantle.
     @Html.GravatarImage().EmailAddress("user.name@email.com").Rating(GravatarImage.RatingOptions.R).Size(120)
     @Html.GravatarImage().EmailAddress("user.name@email.com").Rating(GravatarImage.RatingOptions.R).Size(80).Tooltip("Avatars confirmed via Gravatar.com").DefaultImageUrl("http://SomePath.com/to/your/default/image.jpg.jpg").EncodeDefaultImageUrl(true)
 
-    Well you get the idea.
 
-    Hope this helps someone else as well.  I'll clean it up more soon.
+
+Well you get the idea.
+Hope this helps someone else as well.  I'll clean it up more soon.
 
